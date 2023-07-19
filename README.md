@@ -42,6 +42,9 @@ This is an Unsupervised ML Project where we use clustering algorithms to make pr
 # Main Libraries Used
 
 **1**. Pandas for data manipulation and agrregation.
+
 **2**. Matplotlib and Seaborn for visualization and behavior with respect to the target variable.
+
 **3**. Numpy for computationally efficient operations
+
 **4**. Scikit Learn for model training, model optimization and metrics calculation.
