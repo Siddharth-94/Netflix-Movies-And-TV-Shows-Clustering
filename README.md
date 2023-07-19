@@ -45,6 +45,6 @@ This is an Unsupervised ML Project where we use clustering algorithms to make pr
 
 **2**. Matplotlib and Seaborn for visualization and behavior with respect to the target variable.
 
-**3**. Numpy for computationally efficient operations
+**3**. Numpy for computationally efficient operations.
 
 **4**. Scikit Learn for model training, model optimization and metrics calculation.
