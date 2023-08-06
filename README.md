@@ -11,7 +11,7 @@ This is an Unsupervised ML Project where we use clustering algorithms to make pr
 
 **C)** The years 2017 and 2018 witnessed the highest number of movie releases on Netflix, while 2020 had the highest number of TV show releases. Notably, the growth rate of movie releases is considerably higher than that of TV shows, indicating a stronger emphasis on expanding the movie content on Netflix. Since 2015, there has been a substantial overall increase in the number of movies and TV show episodes available on the platform. However, after 2020, there was a noticeable decline in the production of both movies and TV show episodes, suggesting a potential shift in Netflix's content creation strategy.
 
-**D)** Based on the countplot analysis, it is evident that Netflix tends to add the most movies and TV shows during the period spanning October to January. This timeframe appears to be the busiest season for Netflix, as it adds a significant amount of new content to its platform during these months. The United States is the country with the largest content library on Netflix, closely followed by India. Furthermore, India holds the distinction of having the highest number of movies available on Netflix among all the countries analyzed.
+**D)** Based on the count plot analysis, it is evident that Netflix tends to add the most movies and TV shows during the period spanning October to January. This timeframe appears to be the busiest season for Netflix, as it adds a significant amount of new content to its platform during these months. The United States is the country with the largest content library on Netflix, closely followed by India. Furthermore, India holds the distinction of having the highest number of movies available on Netflix among all the countries analyzed.
 
 **E)** To cluster the shows, the study focused on six key attributes: director, cast, country, genre, rating, and description. These attributes were transformed into a 10,000-feature TFIDF vectorization, and Principal Component Analysis (PCA) was applied to reduce the components to 3000, capturing over 80% of the variance.
 
@@ -19,7 +19,7 @@ This is an Unsupervised ML Project where we use clustering algorithms to make pr
 
 **G)** Lastly, a content-based recommender system was developed, utilizing a similarity matrix derived from cosine similarity. This system offers personalized recommendations to users based on the type of show they have previously watched. It presents them with a curated list of 10 top-notch suggestions to explore further.
 
-**In conclusion, the study uncovered significant trends within the Netflix dataset, such as the contrasting growth rates between movies and TV shows, the busiest content addition period, and the content demographics. By employing clustering and a content-based recommender system, the study successfully delivered personalized recommendations based on users' viewing history. These findings offer valuable insights into the factors that drive the popularity of movies and TV shows on Netflix, providing a solid basis for future research and analysis in this domain.**
+**In conclusion, the study uncovered significant trends within the Netflix dataset, such as the contrasting growth rates between movies and TV shows, the busiest content addition period, and the content demographics. By employing clustering and a content-based recommender system, the study successfully delivered personalized recommendations based on the user's viewing history. These findings offer valuable insights into the factors that drive the popularity of movies and TV shows on Netflix, providing a solid basis for future research and analysis in this domain.**
 
 # Problem Statement
 
@@ -27,7 +27,7 @@ This is an Unsupervised ML Project where we use clustering algorithms to make pr
 
 **In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset.**
 
-**Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings**
+**Integrating this dataset with other external datasets such as IMDB ratings, and rotten tomatoes can also provide many interesting findings**
 
 **In this project, you are required to do-**
 
